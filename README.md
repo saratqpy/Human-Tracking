@@ -296,7 +296,8 @@ YOLOv7-3d-detection & YOLOv7-lidar & YOLOv7-road (with NTUT)
 
 
 ## Demo
-https://raw.githubusercontent.com/saratqpy/Human-Tracking/main/result.MOV
+
+[`video`](https://raw.githubusercontent.com/saratqpy/Human-Tracking/main/result.MOV)
 
 <details><summary> <b>Expand</b> </summary>
 
